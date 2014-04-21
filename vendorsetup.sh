@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo broodROM_u8860-userdebug
+add_lunch_combo full_u8860-userdebug
